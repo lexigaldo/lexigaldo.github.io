@@ -1,0 +1,48 @@
+body { background: white;
+		color: black;
+			font-size: 14pt;
+}
+
+body {font-family: 'Amiri', serif;;
+}
+
+H1 {font-family: 'Notable', sans-serif;
+font-family: 'Indie Flower', cursive;
+}
+
+
+H1 { font-size:250%
+	font-weight: bold;
+	color: darkorchid
+	}
+	
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	}
+	
+li a {
+	display: inline;
+		}
+		
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    padding: 8px;
+    background-color: #FFFAF0;
+}
+
+
+
